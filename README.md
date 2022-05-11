@@ -13,7 +13,7 @@
 
 ## About The Project
 
-[![Portfolio screenshot](https://portfolio-sylvain.netlify.app/portfolio-screenshot.png)](https://sylvain-bauvais.fr)
+[![Portfolio screenshot](https://sylvain-bauvais.fr/portfolio-screenshot.png)](https://sylvain-bauvais.fr)
 
 This is my professional portfolio to showcase some case studies & creations I've made as a UX/UI freelance designer.
 
