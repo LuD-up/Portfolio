@@ -28,6 +28,8 @@
 
     {{ $style := resources.Get "css/main.css" | resources.Minify }}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
+
+    <script defer data-domain="sylvain-bauvais.fr" src="https://plausible.io/js/plausible.js"></script>
 <body>
 
     {{ partial "header.html" . }}
