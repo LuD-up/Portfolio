@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   <a href="https://app.netlify.com/sites/sylvain-bauvais/deploys">
-    <img src="https://api.netlify.com/api/v1/badges/66b1ea2a-6b8f-4c97-a247-9f8e012e2144/deploy-status" alt="Netlify Status" />
+    <img src="https://api.netlify.com/api/v1/badges/ffc2e49f-ef77-40b7-8904-751752268271/deploy-status" alt="Netlify Status" />
   </a>
 </p>
 
