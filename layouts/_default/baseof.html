@@ -8,7 +8,8 @@
     <link rel="canonical" href="{{ .Permalink }}">
 
     <!-- Open Graph -->
-    <meta property="og:title" content= "{{ .Title }}" >
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{ .Title }}" >
     {{ if .Description }}<meta property="og:description" content="{{ .Description }}">{{ else }}<meta property="og:description" content="{{ $.Site.Params.Description }}">{{ end }}
     {{ if .Params.cover }}<meta property="og:image" content="{{ .Permalink }}{{ .Params.cover }}">{{ else }}<meta property="og:image" content="{{ $.Site.Params.Avatar | absURL }}">{{ end }}
     <meta property="og:url" content="{{ .Permalink }}">
