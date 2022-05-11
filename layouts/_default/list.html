@@ -1,0 +1,32 @@
+{{ define "main" }}
+    <div class="list">
+        <header class="page-list-header">
+            <h1>{{ .Title }}</h1>
+            <p>{{ .Description }}</p>
+        </header>
+        <ul class="post-list">
+            {{ range (.Paginator).Pages.ByPublishDate.Reverse }}
+                <li class="post-item">
+                    <a href="{{ .Permalink }}" class="post-item-link">
+                        {{ with .Resources }}
+                            {{ with .GetMatch "{*.webp}" }}
+                                {{ $cover := .Fill "960x720"  }}
+                                {{ with $cover }}
+                                    <img class="post-item-cover" src="{{ .Permalink }}" loading="lazy" width="480" height="360" alt="Illustration de l'article">
+                                {{ end }}
+                            {{ end }}
+                        {{ end }}
+                    <div class="post-item-desc">
+                        <p class="post-item-date"><time datetime="{{ time.Format "2 January 2006" .Date  }}">{{ time.Format "2 January 2006" .Date  }}</time></p>
+
+                        <h2 class="post-item-title">{{ .Title }}</h2>
+
+                        <p>{{ .Description }}</p>
+                    </div>
+                </a>
+            </li>
+            {{ end }}
+        </ul>
+        
+    </div>
+{{ end }}

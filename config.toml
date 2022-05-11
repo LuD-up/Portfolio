@@ -1,0 +1,23 @@
+baseURL = 'https://portfolio-sylvain.netlify.app'
+title = 'Sylvain Bauvais'
+languageCode = 'fr-fr'
+copyright = "© {year} Sylvain Bauvais"
+enableRobotsTXT = true
+PygmentsStyle = "dracula"
+defaultContentLanguage = "fr"
+disableKinds = ["taxonomy", "term"]
+timeZone = "Europe/Paris"
+
+[params]
+  avatar = "/og-cover.png"
+  description = "UI/UX designer & intégrateur freelance à Lille. Création ou refonte de sites vitrine, e-commerce et design d'interfaces web et mobile."
+  author = "Sylvain Bauvais"
+  twitter = "/twitter-card.png"
+
+[markup]
+  [markup.goldmark] 
+    [markup.tableOfContents]
+        endLevel = 2
+        ordered = false
+    [markup.goldmark.renderer]
+        unsafe= true
