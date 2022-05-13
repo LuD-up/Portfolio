@@ -4,7 +4,7 @@ title: "Sylvain Bauvais, UX/UI designer freelance 👋"
 description: "Sylvain Bauvais, UX/UI designer Freelance. J'accompagne différents types de clients dans la création ou l'amélioration de leur site web ou application mobile."
 ---
 
-Indépendant en Web design depuis plus de 5 ans, j’accompagne différents types de clients, allant des indépendants aux statups, dans la création ou refonte de leur site web afin de créer un produit qui les satisfaits, eux et leurs clients.
+Indépendant en Web design depuis plus de 5 ans, j’accompagne différents types de clients, allant des indépendants aux startups, dans la création ou refonte de leur site web afin de créer un produit qui les satisfaits, eux et leurs clients.
 
 {{< figure src="sylvain-bauvais.webp" alt="Photo de Sylvain Bauvais" width="500px" height="500px" >}}
 

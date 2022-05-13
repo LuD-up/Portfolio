@@ -13,7 +13,7 @@ Pour générer automatiquement un `robots.txt` sous Hugo, il suffit d'ajouter da
 enableRobotsTXT = true
 ```
 
-Par dégaut, Hugo va générer un fichier très basique :
+Par défaut, Hugo va générer un fichier très basique :
 
 ```bash
 User-agent: *

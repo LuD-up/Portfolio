@@ -52,7 +52,7 @@ Plausible ne récolte aucune donnée personnelle et respecte la RGPD. Vous n'ave
 Contrairement à Google Analytics qui vous propose une infinité de sous sections et filtres à mettre en place, Plausible mise sur la simplicité avec un tableau de bord sur une page, où toutes les données pertinentes sont regroupées.
 
 **Autres fonctionnalités**  
-Ils y a déjà quelques fonctionnalités qui peuvent être très utiles comme [l'intégration de Google Search Console](https://docs.plausible.io/google-search-console-integration), [la planification d'objectifs](https://docs.plausible.io/goal-conversions), ou [la notification par mail](https://docs.plausible.io/email-reports) chaque semaine de vos audiences. Le logiciel étant encore jeune, d'autres fonctionnalités sont à prévoir !
+Il y a déjà quelques fonctionnalités qui peuvent être très utiles comme [l'intégration de Google Search Console](https://docs.plausible.io/google-search-console-integration), [la planification d'objectifs](https://docs.plausible.io/goal-conversions), ou [la notification par mail](https://docs.plausible.io/email-reports) chaque semaine de vos audiences. Le logiciel étant encore jeune, d'autres fonctionnalités sont à prévoir !
 
 **Transparence et éthique**  
 L'équipe derrière ce logiciel est très transparente et à cheval sur l'éthique. Ils détaillent par exemple sur leur blog [15 techniques marketing auxquelles ils ont dit non](https://plausible.io/blog/best-marketing-practices), et ont  mis en accès libre leur tableau de bord, que [vous pouvez consulter ici](https://plausible.io/plausible.io).
