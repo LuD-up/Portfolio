@@ -20,13 +20,14 @@ This is my professional portfolio to showcase some case studies & creations I've
 ## Roadmap
 
 - [x] UI update
-- [ ] Add animations
+- [ ] Animations
 - [ ] Add dark/light theme switch
 - [ ] Blog pagination
 - [ ] Articles & cases studies CTA
 - [ ] Article TOC
 - [ ] Social links in footer
 - [ ] Service page
+- [x] Custom RSS feed
 
 ## Contributing
 
