@@ -2,10 +2,13 @@
 title : "Générer un robot.txt automatiquement avec Hugo"
 description : "Comment générer et configurer le fichier robots.txt automatiquement avec Hugo"
 date : 2022-01-30T17:32:47Z
+cover :  cover.png
 draft: false
 ---
 
 {{< figure src="https://sylvain-bauvais.fr/blog/generer-un-robot.txt-automatiquement-avec-hugo/cover.webp" title="Photo par Arturo Esparza sur Unsplash" alt="Photo d'un jouet Wall-e sur fond blanc" >}}
+
+![cover.webp](cover.webp)
 
 Pour générer automatiquement un `robots.txt` sous Hugo, il suffit d'ajouter dans le fichier de configuration `config.toml`
 

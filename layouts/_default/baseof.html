@@ -10,13 +10,26 @@
     <meta property="og:type" content="website">
     <meta property="og:title" content="{{ .Title }}" >
     {{ if .Description }}<meta property="og:description" content="{{ .Description }}">{{ else }}<meta property="og:description" content="{{ $.Site.Params.Description }}">{{ end }}
-    {{ if .Params.cover }}<meta property="og:image" content="{{ .Permalink }}{{ .Params.cover }}">{{ else }}<meta property="og:image" content="{{ $.Site.Params.Avatar | absURL }}">{{ end }}
+    {{ if .Params.cover }}
+    <meta property="og:image" content="{{ .Permalink }}{{ .Params.cover | relURL }}"/>
+    <meta property="og:image:secure_url" content="{{ .Params.cover | absURL }}"/>
+    {{ else }}
+    <meta property="og:image" content="{{ .Permalink }}{{ .Site.Params.cover | relURL }}"/>
+    <meta property="og:image:secure_url" content="{{ .Site.Params.cover | absURL }}"/>
+    {{ end }}
+
     <meta property="og:url" content="{{ .Permalink }}">
     <!-- Twitter Card -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:title" content= "{{ .Title }}" >
     {{ if .Description }}<meta property="twitter:description" content="{{ .Description }}">{{ else }}<meta property="og:description" content="{{ $.Site.Params.Description }}">{{ end }}
-    {{ if .Params.cover }}<meta property="twitter:image" content="{{ .Permalink }}{{ .Params.cover }} ">{{ else }}<meta property="og:image" content="{{ $.Site.Params.Avatar | absURL }}">{{ end }}
+    {{ if .Params.cover }}
+    <meta property="twitter:image" content="{{ .Permalink }}{{ .Params.cover | relURL }}"/>
+    <meta property="twitter:image:secure_url" content="{{ .Params.cover | absURL }}"/>
+    {{ else }}
+    <meta property="twitter:image" content="{{ .Permalink }}{{ .Site.Params.cover | relURL }}"/>
+    <meta property="twitter:image:secure_url" content="{{ .Site.Params.cover | absURL }}"/>
+    {{ end }}
     <meta property="twitter:url" content="{{ .Permalink }}">
     <!-- Favicons list -->
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">

@@ -8,15 +8,12 @@ defaultContentLanguage = "fr"
 disableKinds = ["taxonomy", "term"]
 timeZone = "Europe/Paris"
 
-[Author]
-  name = "Sylvain Bauvais"
-  email = "sylvain.bauvais@hova.fr"
-
 [params]
-  avatar = "/og-cover.png"
   description = "UI/UX designer & intégrateur freelance à Lille. Création ou refonte de sites vitrine, e-commerce et design d'interfaces web et mobile."
   author = "Sylvain Bauvais"
   twitter = "/twitter-card.png"
+  feedDescription = "Réflexions et tutoriels sur l’UX/UI design, les outils et la technologie."
+  cover = "/og-cover.png"
 
 [markup]
   [markup.goldmark] 

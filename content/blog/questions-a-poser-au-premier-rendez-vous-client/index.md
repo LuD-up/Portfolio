@@ -3,6 +3,7 @@ title: "Brief client : 18 questions à poser au premier rendez-vous"
 description: "18 questions essentielles à poser à vos clients lors du premier rendez-vous afin de faciliter la communication et améliorer votre productivité."
 date: 2020-10-10T15:00:00Z
 daft: false
+cover : cover.png
 ---
 
 {{< figure src="https://sylvain-bauvais.fr/blog/questions-a-poser-au-premier-rendez-vous-client/briefing-client.jpg" alt="Photo de KOBU Agency sur Unsplash">}}
