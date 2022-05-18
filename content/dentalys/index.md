@@ -18,7 +18,7 @@ La création d’un site s’est imposé comme l’une des meilleures solutions 
 
 ## Identité graphique
 
-Un style épuré et rassurant, avec des éléments facilement reconnaisables pour aller droit au but était une priorité lors du design de la maquette.
+Un style épuré et rassurant, avec des éléments facilement reconnaissables pour aller droit au but était une priorité lors du design de la maquette.
 
 Un dégradé de bleu vers le rose ajoute du contraste et de la couleur pour mettre en valeur les informations importantes aux utilisateurs.
 
