@@ -9,7 +9,7 @@ J’ai clôturé mon compte Facebook il y a deux semaines, et je vais résumer i
 
 Je ne vais pas parler d’atteintes à la vie privé, utilisant de nombreux services Google, Amazon etc, ni des différents scandales presque hebdomadaire mettant en cause Facebook mais plutôt des raisons directement liées aux services que propose ce site.
 
-{{< figure src="byebyefacebook.jpeg" alt="Bye bye Facebook">}}
+{{< figure src="https://sylvain-bauvais.fr/blog/pourquoi-jai-quitte-facebook/byebyefacebook.jpeg" alt="Bye bye Facebook">}}
 
 ### La lassitude
 
@@ -24,7 +24,7 @@ Tout ce que vous voyez est trié en amont par les algorithmes de Facebook.
 
 Ils choisissent ce que vous pouvez voir. ils vous enferment dans une boucle de choses que vous aimez, vous empêchant de découvrir de nouvelles choses, ou au contraire vous montrent des choses qui savent que vous ne supportez pas, pour vous pousser à y réagir. 
 
-{{< figure src="fbpage_boulet.png" alt="Screenshot d'un tweet de @bouletcorp">}}
+{{< figure src="https://sylvain-bauvais.fr/blog/pourquoi-jai-quitte-facebook/fbpage_boulet.png" alt="Screenshot d'un tweet de @bouletcorp">}}
 
 
 Comme le montre cette capture d'écran, 100.000 abonnés et seulement quelques vues. Si vous avez une page pour mettre en avant votre passion ou vos produits le message est clair : **Payez ou personne ne vous verra.**

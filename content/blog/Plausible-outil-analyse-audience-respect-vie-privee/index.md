@@ -37,7 +37,7 @@ Google partage vos données au plus offrant. C'est même son business model.
 
 [Plausible.io](https://plausible.io/) est un outil d'analyse d'audience pour vos sites web qui corrige de nombreux problèmes comparé à ses concurrents.
 
-![Tableau de bord de Plausible.io](plausible-preview.jpg)
+{{< figure src="https://sylvain-bauvais.fr/blog/plausible-outil-analyse-audience-respect-vie-privee/plausible-preview.webp" alt="Tableau de bord de Plausible.io">}}
 
 **Légèreté**  
 Le script de Plausible est 45 fois plus petit (moins d'1KB) que celui de Google. Votre site est donc plus rapide à charger.

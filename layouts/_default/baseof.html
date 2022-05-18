@@ -25,7 +25,7 @@
     <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png">
     <link rel="apple-touch-icon" type="image/png" sizes="180x180" href="/favicon-180.png">
 
-    <link rel="alternate" type="application/rss+xml" href="{{.Site.BaseURL }}index.xml" title="{{ .Site.Title }}">
+    <link rel="alternate" type="application/rss+xml" href="{{.Site.BaseURL }}index.xml" title="Blog – {{ .Site.Title }}">
     {{ $style := resources.Get "css/main.css" | resources.Minify }}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
 

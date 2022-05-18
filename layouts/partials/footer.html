@@ -1,5 +1,5 @@
 <footer class="main-footer">
-    <p class="copyright"><small>{{ replace .Site.Copyright "{year}" now.Year }} - <a href="/mentions-legales-cgv/">Mentions légales & CGV</a></small></p>
+    <p class="copyright"><small>{{ .Site.Copyright }} - <a href="/mentions-legales-cgv/">Mentions légales & CGV</a></small></p>
 
     {{ $js := resources.Get "js/app.js" | minify }}
     <script src="{{ $js.Permalink }}" defer></script>

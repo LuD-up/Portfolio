@@ -1,7 +1,7 @@
 baseURL = 'https://sylvain-bauvais.fr/'
 title = 'Sylvain Bauvais'
 languageCode = 'fr-fr'
-copyright = "© {year} Sylvain Bauvais"
+copyright = "© 2022 Sylvain Bauvais"
 enableRobotsTXT = true
 PygmentsStyle = "dracula"
 defaultContentLanguage = "fr"

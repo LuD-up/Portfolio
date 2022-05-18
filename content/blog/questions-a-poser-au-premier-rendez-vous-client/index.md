@@ -5,7 +5,7 @@ date: 2020-10-10T15:00:00Z
 daft: false
 ---
 
-![Photo de KOBU Agency sur Unsplash](briefing-client.jpg)
+{{< figure src="https://sylvain-bauvais.fr/blog/questions-a-poser-au-premier-rendez-vous-client/briefing-client.jpg" alt="Photo de KOBU Agency sur Unsplash">}}
 
 Vous êtes Web designer ou développeur front-end freelance et vous ne savez pas quelles questions poser à votre client lors de votre premier rendez-vous ?
 
