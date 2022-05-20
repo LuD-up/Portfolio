@@ -6,9 +6,7 @@ cover :  cover.png
 draft: false
 ---
 
-{{< figure src="https://sylvain-bauvais.fr/blog/generer-un-robot.txt-automatiquement-avec-hugo/cover.webp" title="Photo par Arturo Esparza sur Unsplash" alt="Photo d'un jouet Wall-e sur fond blanc" >}}
-
-![cover.webp](cover.webp)
+![Photo d'un jouet Wall-e sur fond blanc](cover.webp "Photo par Arturo Esparza sur Unsplash")
 
 Pour générer automatiquement un `robots.txt` sous Hugo, il suffit d'ajouter dans le fichier de configuration `config.toml`
 
